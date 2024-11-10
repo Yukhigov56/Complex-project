@@ -1,0 +1,13 @@
+.blockTitle {
+    width: 650px;
+    display: flex;
+    justify-content: center;
+    margin: auto;
+}
+
+.title {
+    font-weight: 700;
+    font-size: 56px;
+    line-height: 56px;
+    text-align: center;
+}

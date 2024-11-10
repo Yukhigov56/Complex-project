@@ -1,0 +1,46 @@
+form {
+  border-radius: 12px;
+  margin-top: 40px;
+}
+
+label {
+  display: block;
+  padding: 5px;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 16px;
+}
+
+input {
+  width: 260px;
+  height: 52px;
+  border-radius: 12px;
+  padding: 16px;
+  background: rgba(245, 243, 240, 1);
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 20px;
+  border: none;
+}
+
+.button {
+  width: 327px;
+  height: 52px;
+  border-radius: 12px;
+  padding: 16px 24px 16px 24px;
+  background: rgba(119, 56, 68, 1);
+  color: white;
+  border: none;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 20px;
+  margin-left: 10px;
+}
+
+p {
+  margin-top: 16px;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 14.4px;
+  color: rgba(100, 101, 98, 1);
+}

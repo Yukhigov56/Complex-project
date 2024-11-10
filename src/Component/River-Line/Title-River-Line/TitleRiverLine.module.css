@@ -1,0 +1,33 @@
+.container {
+  width: 1390px;
+  justify-content: space-between;
+  margin: auto;
+}
+
+.title {
+  font-weight: 700;
+  font-size: 56px;
+  line-height: 56px;
+  color: white;
+}
+
+.paragraph {
+  color: white;
+  width: 430px;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 26px;
+}
+
+.button {
+  width: 289px;
+  height: 52px;
+  border-radius: 12px;
+  padding: 16px 24px;
+}
+
+.containerButton {
+  display: flex;
+  width: 100%;
+  justify-content: space-between;
+}

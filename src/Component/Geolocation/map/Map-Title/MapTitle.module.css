@@ -1,0 +1,23 @@
+.blockTitle {
+  width: 800px;
+  text-align: center;
+  margin: auto;
+  padding: 48px;
+}
+
+.paragraph {
+  margin: 0;
+  padding: 16px;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 16px;
+  text-align: center;
+}
+
+.title {
+  margin: 0;
+  font-weight: 700;
+  font-size: 56px;
+  line-height: 56px;
+  text-align: center;
+}

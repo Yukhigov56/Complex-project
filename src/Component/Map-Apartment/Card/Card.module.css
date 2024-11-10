@@ -1,0 +1,8 @@
+.cantainer {
+  max-width: min-content;
+  background-color: rgb(255, 255, 255);
+  margin: 10px auto;
+  padding: 10px;
+  display: flex;
+  gap: 25px;
+}

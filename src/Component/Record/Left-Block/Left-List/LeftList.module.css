@@ -1,0 +1,21 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+div {
+    margin-top: 24px;
+}
+
+.list {
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+    list-style: none;
+}
+
+li {
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 26px;
+}

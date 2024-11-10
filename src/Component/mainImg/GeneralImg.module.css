@@ -1,0 +1,27 @@
+.leftTopImg {
+  position: relative;
+}
+
+.title {
+  background: rgba(0, 0, 0, 0.6);
+  color: white;
+  padding: 5px;
+  position: absolute;
+  bottom: 40px;
+  left: 12px;
+  font-weight: 500;
+  font-size: 28px;
+  line-height: 32px;
+}
+
+.paragraph {
+  position: absolute;
+  bottom: 0px;
+  left: 12px;
+  background: rgba(0, 0, 0, 0.6);
+  color: white;
+  padding: 5px;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 26px;
+}
