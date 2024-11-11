@@ -1,7 +1,9 @@
+import titleLogo from '../../../../public/title-Logo.svg'
+
 const TitleLogo = () => {
     return (
         <div>
-            <img src="./title-Logo.svg" alt="логотип заголовка" />
+            <img src={titleLogo} alt="логотип заголовка" />
         </div>
     )
 }

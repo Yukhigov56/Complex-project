@@ -1,7 +1,9 @@
+import img from '../../../../public/img.svg'
+
 const TitleImg = () => {
   return (
     <div>
-      <img src="./img.svg" alt="Изображение здания" />
+      <img src={img} alt="Изображение здания" />
     </div>
   );
 };

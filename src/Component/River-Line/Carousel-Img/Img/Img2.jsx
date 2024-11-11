@@ -1,7 +1,9 @@
+import img8 from '../../../../../public/img (8).svg'
+
 const Img2 = () => {
     return(
         <div>
-            <img src="./img (8).svg" alt="" />
+            <img src={img8} alt="" />
         </div>
     )
 }

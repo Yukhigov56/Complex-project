@@ -1,4 +1,3 @@
-import { Link } from "react-router-dom"
 
 const RoutingMain = () => {
     return (
@@ -34,7 +33,7 @@ const RoutingMain = () => {
                 background: 'black',
                 color: 'white',
                 marginTop: '40px',
-            }}> <Link to={'numOne'}>Пройти тест</Link></button>
+            }}> Пройти тест </button>
         </div>
     )
 }

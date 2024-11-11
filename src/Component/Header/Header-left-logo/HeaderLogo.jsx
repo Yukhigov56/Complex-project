@@ -1,8 +1,10 @@
+import LeftLogo from '../../../../public/Left.svg'
+
 
 const HeaderLogo = () => {
     return (
         <div>
-            <img src='./Left.svg' alt="Логотип" />
+            <img src={LeftLogo} alt="Логотип" />
         </div>
     )
 }
